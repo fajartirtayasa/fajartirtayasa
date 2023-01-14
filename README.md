@@ -12,7 +12,7 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, Dat
 
 ### Stats:
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+What i am learning/working on these days</strong></summary>
     - 🌱 I’m currently learning Data Analytics and Machine Learning </br>
     - 👯 I’m looking to collaborate on Machine Learning Project </br>
     - 💬 Ask me about anything.</br>
