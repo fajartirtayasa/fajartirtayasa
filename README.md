@@ -10,7 +10,7 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, Dat
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 
-<summary><strong>What i am learning/working on these days</strong></summary>
+### What i am learning/working on these days?
     - 🌱 I’m currently learning Data Analytics and Machine Learning </br>
     - 👯 I’m looking to collaborate on Machine Learning Project </br>
     - 💬 Ask me about anything.</br>
