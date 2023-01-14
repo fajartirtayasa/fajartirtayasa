@@ -19,11 +19,6 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, Dat
     - 📫 How to reach me: <a href="mailto:fajarteee@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fajartirtayasa&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajartirtayasa&layout=compact" height=180 />
-</p>
 
 ### Let's connect!
 <p>
