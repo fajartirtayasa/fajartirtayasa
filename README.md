@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Fajar!
-Currently I am open to any opportunity especially in Data as a Data Analyst, Data Scientist, or Business Intelligence Analyst. Interested in Machine Learning, Natural Language Processing, and Forecasting with Time Series Analysis. 
+Currently I am open to any opportunity especially in Data as a Data Engineer, Data Analyst, or Data Scientist. Interested in Machine Learning, Natural Language Processing, and Forecasting with Time Series Analysis. 
 
 ### Tools:
 <p>
