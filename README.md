@@ -11,10 +11,10 @@ Interested in Data Engineering, Machine Learning, and Natural Language Processin
 </p>
 
 ### What i am learning/working on these days?
-- 🌱 I’m currently learning Data Analytics and Machine Learning </br>
+- 🌱 I’m currently learning Data Analytics and Engineering </br>
 - 👯 I’m looking to collaborate on Machine Learning Project </br>
 - 💬 Ask me about anything.</br>
-- 📫 How to reach me: <a href="mailto:fajarteee@gmail.com">Email me!</a>  </br>
+- 📫 How to reach me: <a href="mailto:fajartirtayasa.work@gmail.com">Email me!</a>  </br>
 - 😄 Pronouns: He/Him </br>
 - ⚡ Fun fact: Cool person 😎 </br>
 
